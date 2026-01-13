@@ -98,12 +98,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogjatiwari&theme=dark&hide_border=false" /><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yogjatiwari&theme=dark&hide_border=false" /><br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogjatiwari&theme=dark&hide_border=false" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yogjatiwari&icon=0&color=0" />
+  <img src="https://profile-counter.glitch.me/yogjatiwari/count.svg" />
 </div>
