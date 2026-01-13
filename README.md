@@ -105,5 +105,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yogjatiwari/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=yogjatiwari&style=flat-square" />
 </div>
+
