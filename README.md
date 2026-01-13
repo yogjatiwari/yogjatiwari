@@ -35,7 +35,7 @@
 - Strong foundation in **problem solving, systems thinking, and software engineering**
 - Hands-on experience with **full-stack web development, ML, and data analysis**
 
-<hr/>
+<!-- <hr/>
 
 ## ✨ Featured Work & Practice
 
@@ -46,7 +46,7 @@
 | **Algorithmic Problem Solving** | Solving DSA and logical problems with focus on efficiency and correctness. | `C++` `Python` |
 | **Machine Learning Models** | Implemented ML & DL models with strong understanding of fundamentals. | `scikit-learn` `TensorFlow` |
 
-<hr/>
+<hr/> -->
 
 ## 💻 Technical Stack
 
